@@ -16,7 +16,7 @@ https://labfiles.acmcoder.com/ojhtml/index.html#/?id=jsv8
 
 时间限制：C/C++ 1秒，其他语言2秒
 
-空间限制：C/C++ 256M，其他语言512M
+空间限制：C/C++ 256M，其他语言512Mw
 
 计算a+b
 
@@ -73,6 +73,31 @@ while (line = readline()) {
 ```
 
 javascript:void(0);)
+
+```
+const readline = require('readline');
+
+const rl = readline.createInterface({
+    input: process.stdin,
+    output: process.stdout
+});
+
+const arr = [];
+let N = 0;
+rl.on('line', function (line) {
+    arr.push(line.split(' '));
+});
+
+rl.on('close', function(){
+    arr.forEach(item => {
+        let res = item.reduce((sum, next)=>sum+=Number(next),0);
+        console.log(res);
+    })
+})
+
+```
+
+
 
 ## 2/11
 
