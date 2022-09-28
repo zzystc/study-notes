@@ -1,22 +1,6 @@
 # package.json 配置完全解读
 
-原创 李嘉迅 [字节跳动技术团队](javascript:void(0);) *2022-09-19 12:00* *发表于北京*
-
-**动手点关注 干货不迷路 👇**
-
-
-
-![img](http://mmbiz.qpic.cn/mmbiz_png/5EcwYhllQOhkoWTP1gVm0Lqs480XOARyoSYjPEsRVCSF35cbWIp6cliaYic8KUfNfiaSjVnruzTQUTCA0lmv9vUmw/0?wx_fmt=png)
-
-**字节跳动技术团队**
-
-字节跳动的技术实践分享
-
-244篇原创内容
-
-
-
-公众号
+[](https://mp.weixin.qq.com/s/vg1hZo8lwIyhkoLSJ80uqg?forceh5=1)
 
 
 
@@ -672,67 +656,3 @@ https://github.com/SunshowerC/blog/issues/8 by SunshowerC
 
 https://www.ruanyifeng.com/blog/2020/08/how-nodejs-use-es6-module.html by 阮一峰
 
-# 10. 加入我们
-
-我们来自字节跳动飞书商业应用研发部(Lark Business Applications)，目前我们在北京、深圳、上海、武汉、杭州、成都、广州、三亚都设立了办公区域。我们关注的产品领域主要在企业经验管理软件上，包括飞书 OKR、飞书绩效、飞书招聘、飞书人事等 HCM 领域系统，也包括飞书审批、OA、法务、财务、采购、差旅与报销等系统。欢迎加入我们。
-
-
-
-扫码发现职位&投递简历
-
-官网投递：https://job.toutiao.com/s/FyL7DRg
-
-
-
-喜欢此内容的人还喜欢
-
-一款强大的在线编译器工具，支持 38 种开发语言
-
- 
-
-小集
-
-不喜欢
-
-不看的原因
-
-确定
-
--   内容质量低
--   不看此公众号
-
-![img](https://mmbiz.qpic.cn/mmbiz_jpg/3QD99b9DjVEdBeZ5k5lQRSrxa0wkpfBTv6xt5V5kUGkTwStJKfjU4JDkJrd6JRPeIk6e6bh6DP0ibktVnOI6V4A/0?wx_fmt=jpeg)
-
-这款开源 IDE 性能傲视 VS Code，值得尝试一下
-
- 
-
-小集
-
-不喜欢
-
-不看的原因
-
-确定
-
--   内容质量低
--   不看此公众号
-
-![img](https://mmbiz.qpic.cn/mmbiz_jpg/3QD99b9DjVE62tRAb3tJzICUmheuyuCsLARGnMQjnXdIsKuyXnxUXP80pKsxL4SGoaXcX3KibpFhhHUjibd0SRrA/0?wx_fmt=jpeg)
-
-「每周译Go」如何在 Go 中转换数据类型
-
- 
-
-GoCN
-
-不喜欢
-
-不看的原因
-
-确定
-
--   内容质量低
--   不看此公众号
-
-![img](https://mmbiz.qpic.cn/mmbiz_jpg/vbERicIdYZbDiaPiaPOo7qIlXn1oqhAm2kd7k6yU7ldXxtTc6XP4uVA94ficLu6rBU3ia0xic0M6XmgRHrFicfOOP8ubA/0?wx_fmt=jpeg)
